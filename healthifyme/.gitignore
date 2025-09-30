@@ -1,0 +1,10 @@
+node_modules/
+.expo/
+__MACOSX/
+dist/
+build/
+.gradle/
+.idea/
+*.log
+*.tmp
+*.cache
